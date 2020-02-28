@@ -1,0 +1,3 @@
+Kolsaytur.kz 
+
+Aslan Aitkulov
