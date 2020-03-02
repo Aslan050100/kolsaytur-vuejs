@@ -20,3 +20,4 @@
 
     <div class="container mt--10 pb-5"></div>
 @endsection
+<script src="js/main.js"></script>
