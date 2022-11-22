@@ -22,7 +22,7 @@
         "vue": "git+https://github.com/vuejs/vue.git#master",
         "vue-template-compiler": "^2.6.11",
         "webpack": "^4.42.0",
-        "webpack-cli": "^3.3.11"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
         "bootstrap": "^4.4.1",
